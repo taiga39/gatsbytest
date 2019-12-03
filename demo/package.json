@@ -5,7 +5,7 @@
   "version": "0.0.14",
   "author": "LekoArts <hello@lekoarts.de>",
   "license": "MIT",
-  "starter-name": "gatsby-starter-portfolio-cara",
+  "starter-name": "gatsby-starter-dimension",
   "scripts": {
     "build": "gatsby build",
     "develop": "gatsby develop",

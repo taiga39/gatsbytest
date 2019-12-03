@@ -1,4 +1,3 @@
 ＃gatsby
-buttonタグについて
-nemutai
-nu
+gatsby ~~~~でテーマインストール
+gatsby buildしてpublicをサーバーに置けば完了
